@@ -1,0 +1,66 @@
+body{font-family: Arial, Helvetica, sans-serif;
+    color: #700909;
+    background: rgb(255, 0, 179);
+    width: 960px; 
+    font: 18px;
+    text-align: center;
+
+
+
+
+}
+
+header
+nav
+section
+aside
+footer{  background:rgb(0, 4, 255);
+    padding: 10px;
+    margin-bottom: 15px;
+
+}
+article{
+color: red;
+background: salmon;
+
+}
+
+h1,
+p {
+    color: yellowgreen;
+    background-color: seagreen;
+}
+
+section{
+    width: 495px;
+    float: left;
+}
+
+aside{
+width: 40%;
+float: right;
+height: 200px;
+
+}
+
+footer{
+    clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
